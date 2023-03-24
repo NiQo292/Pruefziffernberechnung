@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/Users/haubold/Desktop/Ausbildung/Schule/SDM LF5 Kp/C#/Pruefziffern/Pruefziffern/Pruefziffern.csproj": {}
+    "/Users/capsius/Pruefziffernberechnung/Pruefziffern/Pruefziffern.csproj": {}
   },
   "projects": {
-    "/Users/haubold/Desktop/Ausbildung/Schule/SDM LF5 Kp/C#/Pruefziffern/Pruefziffern/Pruefziffern.csproj": {
+    "/Users/capsius/Pruefziffernberechnung/Pruefziffern/Pruefziffern.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/haubold/Desktop/Ausbildung/Schule/SDM LF5 Kp/C#/Pruefziffern/Pruefziffern/Pruefziffern.csproj",
+        "projectUniqueName": "/Users/capsius/Pruefziffernberechnung/Pruefziffern/Pruefziffern.csproj",
         "projectName": "Pruefziffern",
-        "projectPath": "/Users/haubold/Desktop/Ausbildung/Schule/SDM LF5 Kp/C#/Pruefziffern/Pruefziffern/Pruefziffern.csproj",
-        "packagesPath": "/Users/haubold/.nuget/packages/",
-        "outputPath": "/Users/haubold/Desktop/Ausbildung/Schule/SDM LF5 Kp/C#/Pruefziffern/Pruefziffern/obj/",
+        "projectPath": "/Users/capsius/Pruefziffernberechnung/Pruefziffern/Pruefziffern.csproj",
+        "packagesPath": "/Users/capsius/.nuget/packages/",
+        "outputPath": "/Users/capsius/Pruefziffernberechnung/Pruefziffern/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/haubold/.nuget/NuGet/NuGet.Config"
+          "/Users/capsius/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
@@ -54,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.406/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.102/RuntimeIdentifierGraph.json"
         }
       }
     }

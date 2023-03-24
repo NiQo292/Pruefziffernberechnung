@@ -1,0 +1,15 @@
+/Users/capsius/Pruefziffernberechnung/Pruefziffern/bin/Debug/net6.0/Pruefziffern
+/Users/capsius/Pruefziffernberechnung/Pruefziffern/bin/Debug/net6.0/Pruefziffern.deps.json
+/Users/capsius/Pruefziffernberechnung/Pruefziffern/bin/Debug/net6.0/Pruefziffern.runtimeconfig.json
+/Users/capsius/Pruefziffernberechnung/Pruefziffern/bin/Debug/net6.0/Pruefziffern.dll
+/Users/capsius/Pruefziffernberechnung/Pruefziffern/bin/Debug/net6.0/Pruefziffern.pdb
+/Users/capsius/Pruefziffernberechnung/Pruefziffern/obj/Debug/net6.0/Pruefziffern.csproj.AssemblyReference.cache
+/Users/capsius/Pruefziffernberechnung/Pruefziffern/obj/Debug/net6.0/Pruefziffern.GeneratedMSBuildEditorConfig.editorconfig
+/Users/capsius/Pruefziffernberechnung/Pruefziffern/obj/Debug/net6.0/Pruefziffern.AssemblyInfoInputs.cache
+/Users/capsius/Pruefziffernberechnung/Pruefziffern/obj/Debug/net6.0/Pruefziffern.AssemblyInfo.cs
+/Users/capsius/Pruefziffernberechnung/Pruefziffern/obj/Debug/net6.0/Pruefziffern.csproj.CoreCompileInputs.cache
+/Users/capsius/Pruefziffernberechnung/Pruefziffern/obj/Debug/net6.0/Pruefziffern.dll
+/Users/capsius/Pruefziffernberechnung/Pruefziffern/obj/Debug/net6.0/refint/Pruefziffern.dll
+/Users/capsius/Pruefziffernberechnung/Pruefziffern/obj/Debug/net6.0/Pruefziffern.pdb
+/Users/capsius/Pruefziffernberechnung/Pruefziffern/obj/Debug/net6.0/Pruefziffern.genruntimeconfig.cache
+/Users/capsius/Pruefziffernberechnung/Pruefziffern/obj/Debug/net6.0/ref/Pruefziffern.dll
