@@ -26,7 +26,7 @@ namespace Pruefziffern
                         calculateNumbers();
                         break;
                     case "n":
-                        System.Console.WriteLine("nicht moin");
+                        System.Console.WriteLine("Programm wird beendet.");
                         newInput = false;
                         break;
                     default:
