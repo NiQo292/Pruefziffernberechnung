@@ -1,6 +1,6 @@
 namespace Pruefziffern
 {
-    public class InputServivce
+    public class InputServivce : IInputService
     {
         public List<int> dataInput()
         {
