@@ -1,6 +1,6 @@
 namespace Pruefziffern
 {
-    public class PersonalIDAlgorithm
+    public class DriverIDAlgorithm
     {
         
     }
