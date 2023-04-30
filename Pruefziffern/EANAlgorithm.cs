@@ -1,6 +1,6 @@
 namespace Pruefziffern
 {
-    public class EANAlgorithm
+    public class EANAlgorithm : IAlgorithm
     {
         public int calculateControlNumber(List<int> inputNumbers)
         {
