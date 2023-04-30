@@ -1,6 +1,6 @@
 namespace Pruefziffern
 {
-    public interface DriverIDInput : IInputService
+    public class DriverIDInput : IInputService
     {
         public List<int> dataInput()
         {
