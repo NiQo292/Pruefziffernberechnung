@@ -1,4 +1,6 @@
 .vscode
+.vs/
+Pruefziffern/.vs
 bin
 obj
 .DS_Store
